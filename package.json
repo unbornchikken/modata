@@ -1,6 +1,6 @@
 {
   "name": "modata",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "author": "Gabor Mezo",
   "description": "MOData - Mongoose based OData like query url processor",
   "homepage": "https://github.com/unbornchikken/modata",
