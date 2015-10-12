@@ -1,6 +1,6 @@
 {
   "name": "modata",
-  "version": "0.6.3",
+  "version": "0.6.5",
   "author": "Gabor Mezo",
   "description": "MOData - Mongoose based OData like query url processor",
   "homepage": "https://github.com/unbornchikken/modata",
@@ -12,7 +12,7 @@
   "main": "./index",
   "scripts": {
     "test": "mocha tests",
-    "compile": "node ./node_modules/gulp/bin/gulp.js"
+    "publish": "gulp"
   },
   "engines": [
     "node >=0.10.0",
