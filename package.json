@@ -1,6 +1,6 @@
 {
   "name": "modata",
-  "version": "0.6.7",
+  "version": "0.7.1",
   "author": "Gabor Mezo",
   "description": "MOData - Mongoose based OData like query url processor",
   "homepage": "https://github.com/unbornchikken/modata",
@@ -30,14 +30,13 @@
     "gulp-sequence": "*",
     "gulp-traceur": "*",
     "mocha": "*",
-    "traceur": "*",
     "gulp-sourcemaps": "*"
   },
   "dependencies": {
     "bluebird": "*",
     "debug": "*",
     "lodash": "*",
-    "traceur-runtime": "*"
+    "traceur": "*"
   },
   "peerDependencies": {
     "mongoose": "*"
